@@ -36,4 +36,6 @@ function ordenaLista() {
 
     objetos.sort();
     console.log(objetos);
+    elemento.textContent += `Lista ordenada!`;
+    document.getElementById('entrada').value = '';
 }
