@@ -1,7 +1,8 @@
 /**
  * A função 'adiocinaObjeto' verifica se o valor inserido é válido ou se já existe 
  * na Array de objetos, e caso seja válido e não exista, adiciona ao fim da lista. 
- * A função 'ordenaLista' ordena a lista de objetos em ordem alfabética.
+ * A função 'ordenaLista' ordena a lista de objetos em ordem alfabética e 
+ * efetua um 'console.log' do Array para debug.
  */
 
 var objetos = Array('Cadeira', 'Impressora', 'Garfo');
